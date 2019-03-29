@@ -1,0 +1,7 @@
+D:\STUDY\IT\Semester 3\T3.2 Graph Theory\Projects\LTDT_BTTuan01_ThucHanh\LTDT_BTTuan01_ThucHanh\bin\Debug\LTDT_BTTuan01_ThucHanh.exe.config
+D:\STUDY\IT\Semester 3\T3.2 Graph Theory\Projects\LTDT_BTTuan01_ThucHanh\LTDT_BTTuan01_ThucHanh\bin\Debug\LTDT_BTTuan01_ThucHanh.exe
+D:\STUDY\IT\Semester 3\T3.2 Graph Theory\Projects\LTDT_BTTuan01_ThucHanh\LTDT_BTTuan01_ThucHanh\bin\Debug\LTDT_BTTuan01_ThucHanh.pdb
+D:\STUDY\IT\Semester 3\T3.2 Graph Theory\Projects\LTDT_BTTuan01_ThucHanh\LTDT_BTTuan01_ThucHanh\obj\Debug\LTDT_BTTuan01_ThucHanh.csprojAssemblyReference.cache
+D:\STUDY\IT\Semester 3\T3.2 Graph Theory\Projects\LTDT_BTTuan01_ThucHanh\LTDT_BTTuan01_ThucHanh\obj\Debug\LTDT_BTTuan01_ThucHanh.csproj.CoreCompileInputs.cache
+D:\STUDY\IT\Semester 3\T3.2 Graph Theory\Projects\LTDT_BTTuan01_ThucHanh\LTDT_BTTuan01_ThucHanh\obj\Debug\LTDT_BTTuan01_ThucHanh.exe
+D:\STUDY\IT\Semester 3\T3.2 Graph Theory\Projects\LTDT_BTTuan01_ThucHanh\LTDT_BTTuan01_ThucHanh\obj\Debug\LTDT_BTTuan01_ThucHanh.pdb
